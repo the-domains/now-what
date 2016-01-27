@@ -1,0 +1,28 @@
+name: Now what?
+favicon: null
+layout_spectrum: 0.3049989598803222
+typography_spectrum: 0.3426846305374056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9111280706711113
+  lightness: 0.9466033424250782
+  saturation: 0.3705583489499986
+  rhythmicContrast: 0.22237345925532281
+purpose: []
